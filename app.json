@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "pomodoro-timer",
-    "description": "This project is really great.",
+    "description": "Timer that tracks time working and break time.",
     "slug": "pomodoro-timer",
     "privacy": "public",
     "sdkVersion": "25.0.0",
