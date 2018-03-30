@@ -6,7 +6,7 @@
   "scripts": {
     "prebuild": "rm -rf lib || true",
     "build": "mkdir lib && babel --copy-files --out-dir lib/ --ignore node_modules,package.json,app.json,package-lock.json .",
-    "publish": "npm run build && npm publish"
+    "prepublish": "npm run build"
   },
   "dependencies": {
     "expo": "^25.0.0",
