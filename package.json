@@ -1,5 +1,5 @@
 {
-  "name": "@jhhayashi/pomodoro-timer",
+  "name": "jhhayashi-pomodoro-timer",
   "version": "1.0.0",
   "main": "./lib/App.js",
   "author": "Jordan Hayashi <jordan@jordanhayashi.com>",
