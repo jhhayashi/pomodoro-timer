@@ -4,5 +4,10 @@
     "development": {
       "plugins": ["transform-react-jsx-source"]
     }
-  }
+  },
+  "minified": true,
+  "ignore": [
+    "lib",
+    "node_modules/*",
+  ]
 }
